@@ -1,3 +1,5 @@
+//숫자를 누르고 사칙연산부호를 누르고 또 다른 숫자를 누르기 전 0이 계속 뜨는 건 해결하지 못하였습니다...
+
 // DOM Elements
 const valueEl = document.querySelector('.value');
 
